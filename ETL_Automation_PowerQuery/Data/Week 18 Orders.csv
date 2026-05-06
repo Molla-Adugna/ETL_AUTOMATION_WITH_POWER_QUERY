@@ -1,0 +1,109 @@
+Order ID,Date,Customer ID,Product ID,Product Name,Category,Qty,Price,Coupon (Y/N),Coupon Amount,Tracking
+201898,5/2/2025,111130,100257-Aqua,Tranquil Tide Yoga Board,Boards,1,379,Y,37.9,5USP38135390
+201898,5/2/2025,111130,100252-Pink,Wave Rider Surf Series,Boards,1,449,Y,44.9,5USP38135390
+201898,5/2/2025,111130,200559-Pink,ShoreLine Collapsible Paddle,Accessories,4,59.99,Y,24,5USP38135390
+201898,5/2/2025,111130,200554-Green,BlueWave Solar Charger,Accessories,1,67.99,Y,6.8,5USP38135390
+,,,,,,,,,,
+201915,5/1/2025,108247,100250-Pink,Reef Master Eco Board,Boards,2,189,N, -   ,2UPS392802563
+201915,5/1/2025,108247,300191-Aqua,Logo Tshirt,Apparel,1,21.99,N, -   ,2UPS392802563
+,,,,,,,,,,
+201917,5/2/2025,122370,200549-Pink,HydroThrive Safety Leash,Accessories,1,18.99,N, -   ,1DHL349068670
+,,,,,,,,,,
+201925,5/1/2025,112270,200559-Black,ShoreLine Collapsible Paddle,Accessories,4,59.99,N, -   ,1FDX381024632
+,,,,,,,,,,
+201944,5/2/2025,127801,100254-Green,Carve Performance Board,Boards,1,799,N, -   ,2USP628633551
+201944,5/2/2025,127801,100254-Blue,Carve Performance Board,Boards,1,799,N, -   ,2USP628633551
+,,,,,,,,,,
+201948,5/3/2025,103089,300185-Black,SunShield Rash Guard,Apparel,1,29.99,N, -   ,2UPS482758115
+201948,5/3/2025,103089,200550-Aqua,WaveRider Waterproof Case,Accessories,1,15.99,N, -   ,2UPS482758115
+201948,5/3/2025,103089,300191-Pink,Logo Tshirt,Apparel,1,21.99,N, -   ,2UPS482758115
+201948,5/3/2025,103089,200556-Aqua,ReefFlex Anti-Slip Deck Pad,Accessories,2,64.99,N, -   ,2UPS482758115
+201948,5/3/2025,103089,200554-Blue,BlueWave Solar Charger,Accessories,1,67.99,N, -   ,2UPS482758115
+,,,,,,,,,,
+201954,5/1/2025,114724,200549-Purple,HydroThrive Safety Leash,Accessories,2,18.99,N, -   ,2DHL207086137
+,,,,,,,,,,
+201958,5/2/2025,108499,200549-Green,HydroThrive Safety Leash,Accessories,3,18.99,N, -   ,2USP387280069
+201958,5/2/2025,108499,300187-Black,WaveRider Water Shoes,Apparel,1,54.99,N, -   ,2USP387280069
+201958,5/2/2025,108499,300191-Pink,Logo Tshirt,Apparel,1,21.99,N, -   ,2USP387280069
+,,,,,,,,,,
+201966,5/3/2025,112462,200549-Purple,HydroThrive Safety Leash,Accessories,4,18.99,Y,7.6,4DHL901021153
+201966,5/3/2025,112462,300185-Purple,SunShield Rash Guard,Apparel,1,29.99,Y,3,4DHL901021153
+201966,5/3/2025,112462,100250-Pink,Reef Master Eco Board,Boards,1,189,Y,18.9,4DHL901021153
+201966,5/3/2025,112462,200556-Purple,ReefFlex Anti-Slip Deck Pad,Accessories,1,64.99,Y,6.5,4DHL901021153
+,,,,,,,,,,
+201990,5/2/2025,103467,100257-Purple,Tranquil Tide Yoga Board,Boards,2,379,N, -   ,5USP646386330
+201990,5/2/2025,103467,200559-Pink,ShoreLine Collapsible Paddle,Accessories,2,59.99,N, -   ,5USP646386330
+201990,5/2/2025,103467,300187-Aqua,WaveRider Water Shoes,Apparel,2,54.99,N, -   ,5USP646386330
+201990,5/2/2025,103467,300191-Green,Logo Tshirt,Apparel,1,21.99,N, -   ,5USP646386330
+201990,5/2/2025,103467,100252-Blue,Wave Rider Surf Series,Boards,2,449,N, -   ,5USP646386330
+,,,,,,,,,,
+201992,5/1/2025,102707,200556-Blue,ReefFlex Anti-Slip Deck Pad,Accessories,1,64.99,N, -   ,2DHL753987453
+,,,,,,,,,,
+202003,5/2/2025,131370,200558-Blue,AquaLume LED Light Kit,Accessories,1,18.99,N, -   ,2FDX817843454
+,,,,,,,,,,
+202014,5/3/2025,113319,200557-Aqua,SeaPulse GPS Tracker,Accessories,1,129.99,N, -   ,4FDX294649263
+202014,5/3/2025,113319,100250-Blue,Reef Master Eco Board,Boards,2,189,N, -   ,4FDX294649263
+202014,5/3/2025,113319,200556-Aqua,ReefFlex Anti-Slip Deck Pad,Accessories,3,64.99,N, -   ,4FDX294649263
+,,,,,,,,,,
+202016,5/3/2025,119017,300185-Black,SunShield Rash Guard,Apparel,4,29.99,N, -   ,2UPS648549381
+,,,,,,,,,,
+202019,5/3/2025,106630,200556-Pink,ReefFlex Anti-Slip Deck Pad,Accessories,4,64.99,N, -   ,4FDX923833671
+,,,,,,,,,,
+202038,5/3/2025,123418,300191-Black,Logo Tshirt,Apparel,2,21.99,N, -   ,4FDX933836973
+,,,,,,,,,,
+202043,5/2/2025,125418,300186-Pink,AquaFlex Board Shorts,Apparel,1,49.99,N, -   ,2FDX844953979
+202043,5/2/2025,125418,100250-Blue,Reef Master Eco Board,Boards,4,189,N, -   ,2FDX844953979
+202043,5/2/2025,125418,200559-Green,ShoreLine Collapsible Paddle,Accessories,1,59.99,N, -   ,2FDX844953979
+202043,5/2/2025,125418,300188-Pink,TideProof Paddle Jacket,Apparel,1,64.99,N, -   ,2FDX844953979
+,,,,,,,,,,
+202046,5/3/2025,126726,300185-Purple,SunShield Rash Guard,Apparel,1,29.99,N, -   ,4UPS914976506
+202046,5/3/2025,126726,300188-Green,TideProof Paddle Jacket,Apparel,2,64.99,N, -   ,4UPS914976506
+202046,5/3/2025,126726,300185-Pink,SunShield Rash Guard,Apparel,2,29.99,N, -   ,4UPS914976506
+202046,5/3/2025,126726,200553-Pink,ClearVue Underwater Camera Mount,Accessories,5,29.99,N, -   ,4UPS914976506
+,,,,,,,,,,
+202047,5/3/2025,131883,300191-Black,Logo Tshirt,Apparel,1,21.99,N, -   ,3FDX427910424
+202047,5/3/2025,131883,200559-Black,ShoreLine Collapsible Paddle,Accessories,5,59.99,N, -   ,3FDX427910424
+202047,5/3/2025,131883,200559-Pink,ShoreLine Collapsible Paddle,Accessories,1,59.99,N, -   ,3FDX427910424
+202047,5/3/2025,131883,200559-Purple,ShoreLine Collapsible Paddle,Accessories,1,59.99,N, -   ,3FDX427910424
+202047,5/3/2025,131883,200559-Blue,ShoreLine Collapsible Paddle,Accessories,1,59.99,N, -   ,3FDX427910424
+,,,,,,,,,,
+202052,5/2/2025,122156,200559-Blue,ShoreLine Collapsible Paddle,Accessories,4,59.99,N, -   ,5DHL781676453
+,,,,,,,,,,
+202083,5/2/2025,125230,300185-Pink,SunShield Rash Guard,Apparel,3,29.99,Y,9,4FDX644428420
+202083,5/2/2025,125230,300185-Pink,SunShield Rash Guard,Apparel,1,29.99,Y,3,4FDX644428420
+,,,,,,,,,,
+202092,5/2/2025,106857,200549-Purple,HydroThrive Safety Leash,Accessories,1,18.99,Y,1.9,1DHL279740887
+202092,5/2/2025,106857,200555-Black,OceanGuard Board Lock,Accessories,1,39.99,Y,4,1DHL279740887
+,,,,,,,,,,
+202095,5/2/2025,116424,200549-Black,HydroThrive Safety Leash,Accessories,1,18.99,N, -   ,5UPS239975802
+,,,,,,,,,,
+202100,5/3/2025,131585,300187-Blue,WaveRider Water Shoes,Apparel,1,54.99,N, -   ,3USP47000188
+,,,,,,,,,,
+202103,5/3/2025,118641,200559-Black,ShoreLine Collapsible Paddle,Accessories,1,59.99,N, -   ,2USP865925240
+202103,5/3/2025,118641,100254-Green,Carve Performance Board,Boards,2,799,N, -   ,2USP865925240
+202103,5/3/2025,118641,100250-Purple,Reef Master Eco Board,Boards,1,189,N, -   ,2USP865925240
+202103,5/3/2025,118641,300191-Aqua,Logo Tshirt,Apparel,2,21.99,N, -   ,2USP865925240
+,,,,,,,,,,
+202117,5/2/2025,111590,300191-Pink,Logo Tshirt,Apparel,1,21.99,N, -   ,2USP89758705
+202117,5/2/2025,111590,200549-Blue,HydroThrive Safety Leash,Accessories,4,18.99,N, -   ,2USP89758705
+202117,5/2/2025,111590,200556-Green,ReefFlex Anti-Slip Deck Pad,Accessories,4,64.99,N, -   ,2USP89758705
+202117,5/2/2025,111590,300185-Aqua,SunShield Rash Guard,Apparel,3,29.99,N, -   ,2USP89758705
+202117,5/2/2025,111590,200559-Green,ShoreLine Collapsible Paddle,Accessories,1,59.99,N, -   ,2USP89758705
+202117,5/2/2025,111590,100252-Pink,Wave Rider Surf Series,Boards,4,449,N, -   ,2USP89758705
+,,,,,,,,,,
+202126,5/2/2025,108529,200558-Pink,AquaLume LED Light Kit,Accessories,4,18.99,N, -   ,5USP795760696
+202126,5/2/2025,108529,300188-Black,TideProof Paddle Jacket,Apparel,5,64.99,N, -   ,5USP795760696
+202126,5/2/2025,108529,200559-Pink,ShoreLine Collapsible Paddle,Accessories,1,59.99,N, -   ,5USP795760696
+,,,,,,,,,,
+202130,5/3/2025,128291,200549-Blue,HydroThrive Safety Leash,Accessories,1,18.99,N, -   ,5UPS450706990
+,,,,,,,,,,
+202152,5/2/2025,105618,100250-Black,Reef Master Eco Board,Boards,4,189,Y,75.6,2DHL477321100
+,,,,,,,,,,
+202165,5/3/2025,131042,300185-Pink,SunShield Rash Guard,Apparel,1,29.99,Y,3,3USP485586543
+202165,5/3/2025,131042,100250-Black,Reef Master Eco Board,Boards,2,189,Y,37.8,3USP485586543
+,,,,,,,,,,
+202170,5/3/2025,120372,200551-Green,TideLock Deck Bag,Accessories,1,79.99,N, -   ,3DHL529145891
+202170,5/3/2025,120372,300185-Blue,SunShield Rash Guard,Apparel,1,29.99,N, -   ,3DHL529145891
+202170,5/3/2025,120372,300191-Green,Logo Tshirt,Apparel,3,21.99,N, -   ,3DHL529145891
+202170,5/3/2025,120372,200552-Aqua,SurfStream Balance Cushion,Accessories,1,49.99,N, -   ,3DHL529145891
+202170,5/3/2025,120372,200559-Blue,ShoreLine Collapsible Paddle,Accessories,1,59.99,N, -   ,3DHL529145891
