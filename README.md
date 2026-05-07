@@ -46,7 +46,8 @@ The workflow covers:
 - Refresh automatically with one click for updated reports.  
 
 ## 📁 File Structure
-```ETL_Automation_PowerQuery/
+```
+ETL_Automation_PowerQuery/
 │── data/
 │   ├── Week 18 Orders.csv
 │   ├── Week 19 Orders.csv
