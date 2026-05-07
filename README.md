@@ -59,7 +59,7 @@ ETL_Automation_PowerQuery/
 │   ├── raw_data_before_etl
 │   ├── during_transformation_in_Power_query
     └── after_transformation(after loaded_to_Excel)
-└── README.md
+README.md
 ```  
 ## ⚙️ Requirements
 - Microsoft Excel (2016 or later)
