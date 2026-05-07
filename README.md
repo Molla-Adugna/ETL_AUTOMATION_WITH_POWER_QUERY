@@ -1,4 +1,7 @@
 # 📊 ETL Automation with Power Query
+![ETL Automation with Power Query](https://github.com/Molla-Adugna/ETL_AUTOMATION_WITH_POWER_QUERY/blob/main/ETL_Automation_PowerQuery/ETL-AUTOMATION_WITH_POWER_QUERY_THUMNAIL.jpg?raw=true)
+💻 Built an ETL Automation workflow using Microsoft Power Query — transforming raw CSV/Excel data into clean, structured datasets for faster reporting and visualization. Demonstrated skills in Power Query, Excel, and Power BI while automating extraction, transformation, and loading steps to ensure data integrity and streamline analytics.
+
 ## 📌 Project Overview
 This project demonstrates how to automate **ETL (Extract, Transform, Load)** workflows using **Microsoft Power Query**. The goal is to streamline data preparation for analytics and reporting by eliminating repetitive manual steps and ensuring clean, structured datasets ready for visualization in **Excel** or **Power BI**.
 
